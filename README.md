@@ -1,1 +1,1 @@
-Simple TCP-client on C++
+Simple TCP-server on C++
